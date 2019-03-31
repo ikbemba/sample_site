@@ -1,2 +1,2 @@
 # sample_site
-Testing github repo by Ivan
+Testing github repo
